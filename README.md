@@ -2,7 +2,7 @@
 ### Project này mình phân tích dữ liệu và xây dựng báo cáo về dữ liệu trạm sạc điện
 ### Crawl Data từ Vinfast Website và các trang web của các hãng trạm sạc khác
 ### Làm sạch và phân tích dữ liệu, xây dựng báo cáo dữ liệu trên nền tảng powerbi
-### Tạo kết nối dữ liệu quá Sql và power query editor
+### Tạo kết nối dữ liệu qua Sql và power query editor
 
 
 # 💻 Tech Stack:
